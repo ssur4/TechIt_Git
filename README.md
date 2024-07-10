@@ -5,3 +5,4 @@ TechIt_Git_Lecture
 2. test 브랜치 만들기
 3. 병합해야지
 4. branch A
+5. branch B
